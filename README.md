@@ -1,1 +1,1 @@
-# analisyst
+# analyst
